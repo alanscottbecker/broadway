@@ -8,11 +8,29 @@ body {
   background-size: 100%;
   color: white;
   font-size: 18px;
+  margin: 25px 25px 25px 25px;
 }
 
 #process {
   background-color: white;
 }
+
+#work {
+  background-color: white;
+}
+
+#team {
+  background-color: white;
+}
+
+#contact {
+  background-color: white;
+}
+
+p {
+  margin: 0px 0px 0px 0px;
+}
+
 a {
   font-size: 18px;
   color: white;
@@ -22,6 +40,7 @@ h1 {
   color: white;
   font-size: 70px;
   font-weight: bold;
+  margin: 15px 15px 15px 15px;
 }
 
 h2 {
