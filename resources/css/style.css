@@ -1,6 +1,6 @@
 body {
-  background-image: url("../resources/the-flatiron-building.png");
-  background-repeat: repeat-y;
+  background-color: skyblue;
+  background-image:: url('file:///Users/Alan/broadway/resources/the-flatiron-building.png');
   text-align: center;
   font-family: "Helvetica", sans-serif;
 }
@@ -11,7 +11,7 @@ h1 {
   font-weight: bold;
 }
 
-.navlist {
+.link-list {
   color: white;
   font-size: 18px;
 }
